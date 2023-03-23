@@ -1,0 +1,11 @@
+drop TABLE asoc_dotari_masina cascade constraints ;
+drop TABLE contract cascade constraints ;
+drop table masina cascade constraints; 
+drop table tip_contract cascade constraints; 
+drop table motorizare cascade constraints ;
+drop table dotare cascade constraints ;
+drop table angajat cascade constraints ;
+drop table culoare cascade constraints;
+drop table departament cascade constraints;
+drop table adresa cascade constraints;
+drop table client cascade constraints;
